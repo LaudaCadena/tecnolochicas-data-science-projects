@@ -39,11 +39,11 @@ La app utiliza la **cámara del celular** para capturar imágenes y clasificar *
 ## 📦 Archivo del proyecto (.aia)
 El archivo del proyecto se incluye para revisar la estructura, componentes y bloques utilizados:  
 
-- **Archivo:** Appclasificador.aia  
+- **Archivo:** [appclasificador.aia](Appclasificador.aia)
 - **Plataforma:** MIT App Inventor 2  
 
 ---
 
 ## 📸 Capturas de pantalla
-![Pantalla principal](ruta/a/tu/imagen1.png)  
-![Resultado de clasificación](ruta/a/tu/imagen2.png)  
+![Screen](Screen1-Appclasificador.jpeg)  
+
