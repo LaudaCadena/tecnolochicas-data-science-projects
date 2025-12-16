@@ -13,7 +13,7 @@ La interacción es la siguiente:
 
 ---
 
-## Objetivo de la app
+## 🎯 Objetivo de la app
 
 * Practicar el uso de **condicionales (if / else)**.
 * Aprender a **validar datos ingresados por el usuario**.
@@ -22,7 +22,7 @@ La interacción es la siguiente:
 
 ---
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 * Campo de texto para ingresar una contraseña.
 * Botón para enviar la contraseña.
@@ -33,7 +33,7 @@ La interacción es la siguiente:
 
 ---
 
-## Lógica de funcionamiento
+## 🧩 Lógica de funcionamiento
 
 * Cuando el usuario presiona el botón:
 
