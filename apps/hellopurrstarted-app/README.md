@@ -52,7 +52,7 @@ Toda la lógica se implementa mediante **bloques visuales** en MIT App Inventor.
 
 El archivo del proyecto de MIT App Inventor se incluye para permitir revisar la estructura, componentes y bloques utilizados en la app.
 
-- **Archivo:** [PasswordSoundApp.aia](HelloPurrStarter.aia)
+- **Archivo:** [HelloPurrStarter.aia](HelloPurrStarter.aia)
 - **Plataforma:** MIT App Inventor 2
 
 ## 📸 Capturas de pantalla
