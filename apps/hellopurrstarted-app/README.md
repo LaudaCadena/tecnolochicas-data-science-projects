@@ -59,9 +59,9 @@ El archivo del proyecto de MIT App Inventor se incluye para permitir revisar la 
 
 **Pantalla 1 – Ingreso de contraseña**
 
-![Pantalla de contraseña](screen1-hellopurrstarter.jpeg)
+![Pantalla de contraseña](Screen1-hellopurrstarter.jpeg)
 
 **Pantalla 2 – Imagen y sonido**
 
-![Pantalla del gato](screen2-hellopurrstarter.jpeg)
+![Pantalla del gato](Screen2-hellopurrstarter.jpeg)
 
