@@ -45,11 +45,11 @@ La app permite al usuario crear y gestionar una **lista de tareas pendientes**, 
 ## 📦 Archivo del proyecto (.aia)
 El archivo del proyecto se incluye para revisar la estructura, componentes y bloques utilizados:  
 
-- **Archivo:** Mylista.aia  
+- **Archivo:** [Mylista.aia](Mylista.aia)  
 - **Plataforma:** MIT App Inventor 2  
 
 ---
 
 ## 📸 Capturas de pantalla
-![Pantalla de contraseña](ruta/a/tu/imagen1.png)  
-![Lista de tareas](ruta/a/tu/imagen2.png)  
+![Pantalla de contraseña](Screen1-Mylista.jpeg)  
+![Lista de tareas](Screen2-Mylista.jpeg)  
