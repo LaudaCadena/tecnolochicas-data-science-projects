@@ -9,6 +9,6 @@ Analizar el consumo de pizza en una fiesta utilizando el archivo de datos propor
 ---
 
 ## Archivos de la tarea
-- [pizza_data.pdf](./Insights from Data and AI L2 - Dataset - Pizza Slice Data (1).pdf) – Archivo con los datos originales de la fiesta.  
+- [dataset-pizzas.pdf](./dataset-pizzas.pdf) – Archivo con los datos originales de la fiesta.  
 - [pizza-analysis.pdf](./pizza-analysis.pdf) – Resolución del análisis utilizando IA y explicación de resultados.  
 
