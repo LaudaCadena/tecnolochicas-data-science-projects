@@ -1,4 +1,4 @@
-# 📱 FakeVoices App
+# :loudspeaker: FakeVoices App
 
 ## ¿Qué es esta app?
 **FakeVoices** es una aplicación móvil creada con **MIT App Inventor 2** como parte del curso de *Introducción a Ciencia de Datos con Tecnolochicas*.  
