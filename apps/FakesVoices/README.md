@@ -35,7 +35,7 @@ La app permite **reconocer audio, convertirlo a texto, reproducirlo y modificar 
 ## 📦 Archivo del proyecto (.aia)
 El archivo del proyecto se incluye para revisar la estructura, componentes y bloques utilizados:
 
-- **Archivo:** [FakeVoices.aia](FakeVoices/FakeVoices.aia)
+- **Archivo:** [FakeVoices.aia](FakesVoices/FakeVoices.aia)
 - **Plataforma:** MIT App Inventor 2
 
 ## 📸 Capturas de pantalla
