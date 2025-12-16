@@ -1,4 +1,4 @@
-# 📱 HelloPurrStarter App
+# :cat: HelloPurrStarter App
 
 ## ¿Qué es esta app?
 
