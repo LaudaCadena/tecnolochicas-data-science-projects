@@ -59,7 +59,7 @@ El archivo del proyecto se incluye para revisar la estructura, componentes y blo
 ---
 
 ## 📸 Capturas de pantalla
-![Pantalla principal](Screen1_icemelt.jpeg)  
-![Línea de mejor ajuste](Screen2_icemelt.jpeg)  
-![Eliminación de datos atípicos](Screen3_icemelt.jpeg)  
-![Predicción con IA](Screen4_icemelt.jpeg) 
+![Pantalla principal](Screen1_icemelt.jpeg)
+![Línea de mejor ajuste](Screen2_icelmelt.jpeg)
+![Eliminación de datos atípicos](Screen3_icelmelt.jpeg)
+![Predicción con IA](Screen4_icelmelt.jpeg)
